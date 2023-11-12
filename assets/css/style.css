@@ -483,7 +483,6 @@ h6 {
 
 #hero .container {
   padding-top: 100px;
-  
 }
 
 @media (max-width: 992px) {
@@ -511,7 +510,7 @@ h6 {
 #hero h2 {
   color: rgb(72, 72, 72);
   margin-bottom: 10px 0 0 0;
-  font-size: 22px;
+  font-size: 25px;
 }
 
 #hero .btns {
@@ -526,7 +525,7 @@ h6 {
   letter-spacing: 8px;
   text-transform: uppercase;
   display: inline-block;
-  padding: 12px 30px;
+  padding: 25px 55px;
   border-radius: 50px;
   transition: 0.3s;
   line-height: 1;
